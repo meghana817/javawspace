@@ -1,8 +1,0 @@
-
-echo .metadata/>>.gitignore
-echo .settings/>>.gitignore
-echo .classpath/>>.gitignore
-echo .project/>>.gitignore
-echo bin />>gitignore
-echo target/>>.gitignore
-echo *.log>>.gitignore
