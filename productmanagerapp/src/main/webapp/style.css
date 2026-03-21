@@ -1,0 +1,15 @@
+@charset "UTF-8";
+*{
+	margin:4px;
+	font-family:sans-serif;
+	font-size:18px;
+}
+.mytab{
+	border:1px solid grey;
+	border-collapse:collapse;
+	padding:5px;
+	width:800px;
+}
+tr:hover{
+	color:blue;
+}
